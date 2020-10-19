@@ -1,3 +1,6 @@
 Hey there, it's so awesome
 And more line
+<<<<<<< HEAD
 Still more line to this file
+=======
+>>>>>>> 2da39c6cec76aac674a4f5c637cd20b111bac724
